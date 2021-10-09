@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gautam Subedi
-- 👀 I’m interested in Backend development and Cloud Computing 
-- 🌱 I’m currently learning K8s
+- 👀 I’m interested in Backend development and Cloud Computing.
+- 🌱 I’m currently learning K8s.
 - 📫 How to reach me srishiram9@gmail.com
 
 <!---
