@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gautam Subedi
 - 👀 I’m Backend developer.
-- 🌱 I’m currently learning bits of Blockchain.
+- 🌱 I’m currently learning bits of Cloud Computing.
 
 
 
