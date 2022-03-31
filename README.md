@@ -2,7 +2,6 @@
 - 🌱 I’m currently learning bits of Backend, Blockchain  and Building Dapps.
 
 
- [![Visits Badge](https://badges.pufler.dev/visits/gautam2002/git-badges)]
 
 
 
