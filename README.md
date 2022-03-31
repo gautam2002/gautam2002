@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Gautam Subedi
 - 🌱 I’m currently learning bits of Backend, Blockchain  and Building Dapps.
+- ![Visitor Count](https://profile-counter.glitch.me/{gautam2002}/count.svg)
 
 
 
