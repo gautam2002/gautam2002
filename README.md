@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning bits of Backend, Blockchain  and Building Dapps.
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{gautam2002}/count.svg)
+ [![Visits Badge](https://badges.pufler.dev/visits/gautam2002/git-badges)](https://badges.pufler.dev)
 
 
 
