@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gautam Subedi
+- 👋 Hi, I’m Gautam
 - 🌱 I’m currently learning bits of Backend, Blockchain  and Building Dapps.
 
 
