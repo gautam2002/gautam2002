@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gautam
-- 🌱 I’m currently learning bits of Backend, Blockchain  and Building Dapps.
+- 🌱 I’m currently learning bits of Backend, Blockchain and Building Dapps.
 
 
 
