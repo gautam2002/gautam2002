@@ -10,8 +10,8 @@
 
  I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: Currently Backend at [chainWhiz](https://github.com/ChainWhiZ/).
-- :seedling: Exploring Blockchain and Distributed Systems.
-- :zap: Building POCs Experimenting Different Protocols.
+- :seedling: Mostly Reading about Blockchain and Distributed Systems.
+- :zap: Building POCs Experimenting and Exploring Different Protocols.
 
 
 
