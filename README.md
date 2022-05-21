@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
   <div id="badges">
   <a href="https://twitter.com/gautamsubedi8">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -7,10 +7,17 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=gautam2002&style=flat-square&color=blue" alt=""/>
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gautam2002&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- :telescope: Currently Backend at [chainWhiz](https://github.com/ChainWhiZ/).
+- :seedling: Exploring Blockchain and Distributed Systems.
+- :zap: Building POCs Experimenting Different Protocols.
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gautam2002&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![Gautam GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam2002&count_private=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2002&langs_count=8&layout=compact&theme=cobalt)](https://github.com/gautam2002/github-readme-stats)
 
 
   
