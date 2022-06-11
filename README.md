@@ -18,7 +18,7 @@
 <!--   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gautam2002&theme=cobalt&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2002&langs_count=8&layout=compact&theme=cobalt)](https://github.com/gautam2002/github-readme-stats)
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gautam2002&langs_count=8&layout=compact&theme=cobalt)](https://github.com/gautam2002/github-readme-stats) -->
 
 <!-- ![Gautam GitHub stats](https://github-readme-stats.vercel.app/api?username=gautam2002&count_private=true&theme=cobalt) -->
 
